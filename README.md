@@ -10,7 +10,7 @@ The program uses **DFS** - An recursion algorithm used to find all possible path
 
 Each time the program starts, weights values of all the edges are being randomized from 1 to 10. 
 
-##Usage
+## Usage
 
 To call the program correctly, we should give it the argument defining 
 - the maze file name
@@ -19,3 +19,5 @@ To call the program correctly, we should give it the argument defining
 - ending vertex
 
 Program call examples:
+
+![Call examples](https://github.com/czaacza/Graph-Maze-Project/blob/master/call-examples.PNG)

@@ -21,3 +21,7 @@ To call the program correctly, we should give it the argument defining
 Program call examples:
 
 ![Call examples](https://github.com/czaacza/Graph-Maze-Project/blob/master/call-examples.PNG)
+
+Program work:
+
+![Program call](https://github.com/czaacza/Graph-Maze-Project/blob/master/program-call.PNG)
